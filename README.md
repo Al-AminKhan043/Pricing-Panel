@@ -1,7 +1,7 @@
 # Pricing Panel
 
 This is a simple practice project that uses HTML and CSS to create a responsive webpage featuring three pricing panels. Each panel includes a button, hover effects, and is designed to be responsive across various devices.
-
+[Visit Panel](https://al-aminkhan043.github.io/Pricing-Panel/)
 ## Project Overview
 
 The "Pricing Panel" page showcases:
